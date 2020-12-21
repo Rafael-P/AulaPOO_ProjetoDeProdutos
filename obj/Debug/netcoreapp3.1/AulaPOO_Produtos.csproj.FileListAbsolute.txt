@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\bin\Debug\netcoreapp3.1\AulaPOO_Produtos.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\bin\Debug\netcoreapp3.1\AulaPOO_Produtos.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\bin\Debug\netcoreapp3.1\AulaPOO_Produtos.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\bin\Debug\netcoreapp3.1\AulaPOO_Produtos.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\bin\Debug\netcoreapp3.1\AulaPOO_Produtos.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\bin\Debug\netcoreapp3.1\AulaPOO_Produtos.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\AulaPOO_Produtos\obj\Debug\netcoreapp3.1\AulaPOO_Produtos.genruntimeconfig.cache
