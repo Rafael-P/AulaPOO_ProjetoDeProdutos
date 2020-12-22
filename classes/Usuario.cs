@@ -11,28 +11,28 @@ namespace AulaPOO_Produtos.classes
 
         public Usuario(int _codigo, string _nome, string _email, string _senha){
             Codigo = _codigo;
-            Nome = _nome;
+            Nome = "Rafael";
             Email = _email;
             Senha = _senha;
-            DataCadastro = DateTime.UtcNow;
+            DataCadastro = DateTime.Now;
         }
 
         public int Codigo { get; set; }
     
-        public string Nome { get; set; }
+        public string Nome = "Rafael";
     
         public string Email { get; set; }
     
         public string Senha { get; set; }
     
-        public DateTime DataCadastro { get; set; }
+        public DateTime DataCadastro = DateTime.Now;
         
 
         public void Cadastrar(){
             Nome = "Rafael";
             Email = "admin@admin.com";
             Senha = "12345";
-            DataCadastro = DateTime.UtcNow;
+            DataCadastro = DateTime.Now;
         }
 
 

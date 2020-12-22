@@ -12,14 +12,16 @@ namespace AulaPOO_Produtos.classes
     
         public float Preco { get; set; }
     
-        public DateTime DataCadastro { get; set; }
+        public DateTime DataCadastro = DateTime.Now;
     
-        public Marca Marca { get; set; }
+        public Marca Marca = new Marca();
     
         public Usuario CadastradoPor { get; set; }
     
         List<Produto> ListaDeProdutos = new List<Produto>();
         
+
+
         public void Cadastrar(){
 
         Produto novoProduto = new Produto();
@@ -33,10 +35,10 @@ namespace AulaPOO_Produtos.classes
         Console.WriteLine("Digite o preço do produto: ");
         novoProduto.Preco = float.Parse(Console.ReadLine());
 
-        DataCadastro = DateTime.UtcNow;
+        DataCadastro = DateTime.Now;
 
         //Atribuimos nossa marca atraves de um metodo criado para cadastro 
-        Marca = Marca.CadastrarMarca();
+        //Marca = Marca.CadastrarMarca();
 
         //Atribuimos o usuario atraves do metodo construtor 
         CadastradoPor = new Usuario();

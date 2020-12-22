@@ -8,7 +8,7 @@ namespace AulaPOO_Produtos
         static void Main(string[] args)
         {
             
-            
+            Login app = new Login();
 
         }
     }

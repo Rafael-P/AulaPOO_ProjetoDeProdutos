@@ -30,6 +30,9 @@ namespace AulaPOO_Produtos.classes
             return novaMarca;
         }
 
+
+        Usuario user = new Usuario();
+
         public void Listar(){
 
             Console.WriteLine("Marcas cadastradas : ");
@@ -39,6 +42,7 @@ namespace AulaPOO_Produtos.classes
                 Console.WriteLine($"Código: {item.Codigo}");
                 Console.WriteLine($"Marca: {item.NomeMarca}");
                 Console.WriteLine($"Data de Cadastro: {item.DataCadastro}");
+                Console.WriteLine($"Cadastrado por: {item.user.Nome}");
             }
 
         }
